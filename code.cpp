@@ -23,7 +23,7 @@ int main()
     while(1)
     {
         cout << "Enter your choice number : \n";
-        cout << "1)Lexicographical order\n2)Reverse Lexicographical order\n3)Fike's order\n4)Exit\n";
+        cout << "1)Lexicographical order\n2)Reverse Lexicographical order\n3)Fike's order\n4)Exit\n"; //menu-driven
         cout << "Your choice : ";
         cin >> choice;
 
